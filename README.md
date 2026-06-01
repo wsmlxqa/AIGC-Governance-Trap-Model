@@ -28,7 +28,7 @@ The study employs a tripartite evolutionary game model and numerical simulations
 
 - **`/Appendix/`**: Contains `Appendix_A.pdf` through `Appendix_E.pdf` (stability proofs, payoff derivations, additional robustness checks, etc.).
 - **`/Code/`**:  MATLAB scripts (`.m`) and Python scripts (`.py`).
-- **`/Data/`**: All raw simulation outputs (including `figure8.csv` for the 2D parameter sweep).
+- **`/Data/`**: All raw simulation outputs .
 - **`/Figures/`**: Final high-resolution versions of all figures in the manuscript.
 - **`/Pseudocode/`**: Formal pseudocode and algorithm description.
 - **`/Tables/`**: Parameter calibration tables, Jacobian matrices and analysis results.
